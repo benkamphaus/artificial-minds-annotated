@@ -84,9 +84,25 @@ _Blade Runner (1982)_
 
 ---
 
+## Annotation: Testing Artificial Beings
+
+The fictional [Voight-Kampff](http://bladerunner.wikia.com/wiki/Voight-Kampff_machine) test from Blade Runner.
+The original proposal of the [Turing Test](https://www.csee.umbc.edu/courses/471/papers/turing.pdf).
+Daniel Dennett makes [arguments in defense](http://www.nyu.edu/gsas/dept/philo/courses/mindsandmachines/Papers/dennettcanmach.pdf) of the Turing Test
+both as a genuinely strong test and quite far away still.
+
+* I think it's quite important not to fall into strawman/caricature of the Turing test and the behavioral perspective.
+
+
+---
+
 > Picture the letters 'jay' and 'dee', now rotate the 'dee' 90 degrees to the left and place it on top of the 'jay' - what weather does this make you think of? 
 
+---
 
+## Annotation: Letters and Weather
+
+This example was from "Philosophy Bites: Daniel Dennett on the Chinese Room", found [here](https://philosophybites.com/2013/06/daniel-dennett-on-the-chinese-room.html)
 
 
 ---
@@ -100,7 +116,6 @@ _Blade Runner (1982)_
   - Making sense of experience
   - Making sense of testimony
 
-
 ---
 
 ## Machine Learning Advances
@@ -111,6 +126,15 @@ _Blade Runner (1982)_
   - abstract -> category (label)
 - Linked language and image model as in image captioning.
 - Label the scene with respect to weather
+
+----
+
+## Annotations: Machine Learning Pieces
+
+[DCGAN](https://arxiv.org/pdf/1511.06434.pdf) is one example for generating photoreal images from labels.
+DeepMind has a [blog post](https://deepmind.com/blog/learning-to-generate-images/) that walks through generating both abstract and photoreal images.
+[VQA](http://visualqa.org/) has several datasets/benchmarks for Visual question answering tasks.
+Abstract, Photoreal, and Stylized (artistic) are all capabilities of [CycleGAN](https://junyanz.github.io/CycleGAN/) and related approaches.
 
 
 ---
@@ -329,6 +353,13 @@ _Bias and variance contributing to total error_[^3]
 
 ![inline](conference-manifold.png)
 
+---
+
+## Annotation: The Manifold Learning Hypothesis:
+
+See [Chris Olah's blog](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+See Bengio (2013): [Deep Learning of Representations: Looking Forward](https://arxiv.org/pdf/1305.0445.pdf)
+See the Deep Learning textbook, "Machine Learning Basics", [link here](http://www.deeplearningbook.org/version-2015-10-17/contents/ml.html)
 
 ---
 
@@ -366,6 +397,15 @@ DCGAN [^1]
 
 
 ---
+
+## Annotation: Vector Spaces
+
+More on vector space embeddings in this [medium post](https://medium.com/artists-and-machine-intelligence/a-journey-through-multiple-dimensions-and-transformations-in-space-the-final-frontier-d8435d81ca51).
+
+
+
+---
+
 
 ## There are constraints
 

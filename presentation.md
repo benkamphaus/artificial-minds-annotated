@@ -160,6 +160,13 @@ Abstract, Photoreal, and Stylized (artistic) are all capabilities of [CycleGAN](
 
 ---
 
+Annotation: Dad Jokes
+
+The "rhetorical question" joke just happened to be trending on reddit on one of the
+days I was working on the presentation, [link](https://www.reddit.com/r/Jokes/comments/9x438s/what_happens_when_you_cross_a_joke_with_a/)
+
+---
+
 
 # If we want to solve these problems, we need good representations
 
@@ -168,6 +175,12 @@ Abstract, Photoreal, and Stylized (artistic) are all capabilities of [CycleGAN](
 
 > *MCMXLVIII*
 
+
+---
+
+## Annotation: Roman numerals
+
+There's a similar example in the Deep Learning textbook, in the [representation learning chapter](https://www.deeplearningbook.org/contents/representation.html)
 
 ---
 
@@ -315,6 +328,24 @@ _Bias and variance contributing to total error_[^3]
 - These may be approximate
 - But the problems are otherwise intractable or unsolvable.
   - Solve rock climbing in terms of muscle fiber contraction.
+
+---
+
+## Annotation: Hinges, Bias, and the Human Condition
+
+There's a good write up on the importance of bias and heuristics in human reasoning in
+[this article](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1756-8765.2008.01006.x).
+
+Note: They make a important case about how a good bias increases accuracy by avoiding accomodation of noise. Good filtering is important, not just for efficiency!
+
+As with anything Wittgenstein, there are a lot of [interpretations](https://www.iep.utm.edu/witt-epi/) of his
+epistemology comments.
+
+Donald Hoffman makes a reasonably good argument for why human perception doesn't match reality, summarized
+[here](https://www.quantamagazine.org/the-evolutionary-argument-against-reality-20160421/).
+As with a lot of evolutionary psych/cognitive sci explanations, it's a bit speculative, but I think
+the underlying gist, that human perception is like a user interface for human needs, is reasonable.
+
 
 
 
@@ -474,8 +505,14 @@ From _Deep Neural Networks are Easily Fooled_, Nguyen et. al. 2015
 - model and data dependencies are like code dependencies except worse in every way
 
 
+---
 
-  ---
+## Annotation: Machine Learning Technical Debt
+
+The canonical reference, _Machine Learning: The High Interest Credit Card of Technical Debt_,
+can be found [here](https://ai.google/research/pubs/pub43146).
+
+---
 
 ## The Wild West of Desktop Data Science
 
@@ -485,7 +522,15 @@ From _Deep Neural Networks are Easily Fooled_, Nguyen et. al. 2015
   - A problem every company with a data science team has is, "we can't get the model the data science team gave us to actually work"
 
 
-  ---
+---
+
+## Annotation: Desktop Data Science
+
+Fortunately, Joel Grus has a good presentation on why not to like notebooks. Linked [here](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit)
+This has saved me a lot of trouble in conversations recently. Reproducibility matters for scientific
+publications and even apparently one-off business decisions, not just software engineering.
+
+---
 
 # The machine learning world is trying to solve these problems
 
